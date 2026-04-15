@@ -1,0 +1,187 @@
+categoria_fuente_subfuente_emision,CO2,CH4,N2O,HFC_23,HFC_410A,HFC_43_10mee,HFC_125,HFC_134,HFC_134a,HFC_404A,HFC_407C,HFC_245fa,HFC_152a,HFC_227ea,HFC_236fa,HFC_365mfc_227ea,HFC_365mfc,HFC_507a,HFC_32,CF4,C2F6,C3F8,C4F6,c_C4F8,C5F8,NF3,SF6,emisiones_tCO2e,emision_neta_carbono_negro_t
+EMISIONES BRUTAS (con UTCUTS),328635169.79,114862695.56,29713381.69,566392.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223834.1,59724.97,0,0,0,0,0,43436.97,474104635.4,80494.56
+EMISIONES Sin UTCUTS,321632873.85,114759092.71,29671423.65,566392.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223834.1,59724.97,0,0,0,0,0,43436.97,466956778.56,
+EMISIONES NETAS (Emisiones + Absorciones),123446089.01,114862695.56,29713381.69,566392.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223834.1,59724.97,0,0,0,0,0,43436.97,268915554.62,
+[1] Energía,289789970.48,13814758.8,3039495.89,,,,,,,,,,,,,,,,,,,,,,,,,306644225.17,75985.11
+[1A] Actividades de quema del combustible,278940848.29,887566.25,3029923.28,,,,,,,,,,,,,,,,,,,,,,,,,282858337.82,74046.71
+[1A1] Industrias de la energía,109466475.4,92136.13,184078.03,,,,,,,,,,,,,,,,,,,,,,,,,109742689.55,13563.48
+[1A1a] Actividad principal producción de electricidad y calor,71170899.12,62725.32,141218.84,,,,,,,,,,,,,,,,,,,,,,,,,71374843.28,11616.93
+[1A1b] Refinación del petróleo,9276249.5,8623.22,15373.34,,,,,,,,,,,,,,,,,,,,,,,,,9300246.06,1641.27
+[1A1c] Manufactura de combustibles sólidos y otras industrias de la energía,29019326.77,20787.6,27485.84,,,,,,,,,,,,,,,,,,,,,,,,,29067600.21,305.281
+1A1ci Fabricación de combustibles sólidos (coque de carbón),1081557.6,5.408,,,,,,,,,,,,,,,,,,,,,,,,,,1081563.01,
+1A1cii Otras Industrias de la energía  ,27937769.18,20782.19,27485.84,,,,,,,,,,,,,,,,,,,,,,,,,27986037.21,305.281
+[1A2] Industrias manufactura y de la construcción,40337025.48,99360.34,138409.17,,,,,,,,,,,,,,,,,,,,,,,,,40574794.99,1757.55
+[1A2a] Hierro y acero,3944450.78,2589.2,3630.91,,,,,,,,,,,,,,,,,,,,,,,,,3950670.89,68.584
+[1A2b] Metales no ferrosos,2052797.63,1426.54,2089.39,,,,,,,,,,,,,,,,,,,,,,,,,2056313.57,28.614
+[1A2c] Sustancias químicas,6935325.15,5393.78,8635.03,,,,,,,,,,,,,,,,,,,,,,,,,6949353.96,184.999
+1A2ci Petroquímica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1A2cii Industria química,6483274.49,5118.6,8277.12,,,,,,,,,,,,,,,,,,,,,,,,,6496670.2,179.028
+1A2ciii Fertilizantes,452050.67,275.184,357.909,,,,,,,,,,,,,,,,,,,,,,,,,452683.76,5.971
+"[1A2d] Pulpa, papel e imprenta",2625407.66,2152.86,3554,,,,,,,,,,,,,,,,,,,,,,,,,2631114.52,69.16
+"[1A2e] Procesamiento de alimentos, bebidas y tabaco",4452513.4,4474.43,8265.14,,,,,,,,,,,,,,,,,,,,,,,,,4465252.97,201.867
+1A2ei elaboración de azúcares,3237440.67,3422.92,6479.09,,,,,,,,,,,,,,,,,,,,,,,,,3247342.68,176.678
+1A2eii elaboración de bebidas,510655.27,492.94,880.092,,,,,,,,,,,,,,,,,,,,,,,,,512028.31,5.352
+1A2eiii elaboración de productos de tabaco,19526.42,12.572,17.305,,,,,,,,,,,,,,,,,,,,,,,,,19556.3,0.318
+1A2eiiii elaboración de cerveza,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1A2eiiiii elaboración de alimentos,684891.03,546,888.651,,,,,,,,,,,,,,,,,,,,,,,,,686325.68,19.518
+[1A2f] Minerales no metálicos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[1A2g] Equipo de transporte,169670.2,94.164,114.083,,,,,,,,,,,,,,,,,,,,,,,,,169878.44,0.47
+[1A2h] Maquinaria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[1A2i] Minería (con excepción de combustibles) y cantería,7254893.34,7229.18,13330.22,,,,,,,,,,,,,,,,,,,,,,,,,7275452.74,213.663
+[1A2j] Madera y productos de la madera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[1A2k] Construcción,376419.93,434.028,821.553,,,,,,,,,,,,,,,,,,,,,,,,,377675.51,1.668
+[1A2l] Textiles y cueros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[1A2m] Industria no especificada,12525547.4,75566.15,97968.86,,,,,,,,,,,,,,,,,,,,,,,,,12699082.4,988.529
+1A2mi Fabricación de vidrio y productos de vidrio,1705321.42,951.412,1111.68,,,,,,,,,,,,,,,,,,,,,,,,,1707384.51,10.555
+1A2mii Fabricación de productos de hule,264498.87,179.004,255.434,,,,,,,,,,,,,,,,,,,,,,,,,264933.31,3.221
+1A2miii Otras ramas,10555727.1,74435.74,96601.75,,,,,,,,,,,,,,,,,,,,,,,,,10726764.59,974.753
+[1A3] Transporte,98415052.49,373318.67,2374046.66,,,,,,,,,,,,,,,,,,,,,,,,,101162417.83,23427.37
+[1A3a] Aviación civil,4084845.43,787.585,29815.7,,,,,,,,,,,,,,,,,,,,,,,,,4115448.72,57.866
+[1A3b] Autotransporte,91445578.25,366607.81,2164836.19,,,,,,,,,,,,,,,,,,,,,,,,,93977022.26,23248.96
+[1A3c] Ferrocarriles,1638340.97,2613.22,170444.13,,,,,,,,,,,,,,,,,,,,,,,,,1811398.32,38.632
+[1A3d] Navegación marítima y fluvial,1246287.84,3310.05,8950.64,,,,,,,,,,,,,,,,,,,,,,,,,1258548.53,81.91
+[1A3e] Otro transporte,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[1A4] Otros sectores,30722294.92,322751.11,333389.42,,,,,,,,,,,,,,,,,,,,,,,,,31378435.45,35298.3
+[1A4a] Comercial/institucional,5564149.64,15715.28,6591.72,,,,,,,,,,,,,,,,,,,,,,,,,5586456.64,2232.42
+[1A4b] Residencial,20013071.13,287361.35,315681.06,,,,,,,,,,,,,,,,,,,,,,,,,20616113.54,32990.96
+[1A4c] Agropecuario/silvicultura/pesca/piscifactorías,5145074.15,19674.48,11116.64,,,,,,,,,,,,,,,,,,,,,,,,,5175865.27,74.92
+[1B] Emisiones fugitivas provenientes de la fabricación de combustibles,10849122.18,12927192.55,9572.61,,,,,,,,,,,,,,,,,,,,,,,,,23785887.35,1938.41
+[1B1] Combustibles sólidos,59354.62,2087677.33,,,,,,,,,,,,,,,,,,,,,,,,,,2147031.95,
+[1B1a] Minería carbonífera y manejo del carbón,59354.62,2087677.33,,,,,,,,,,,,,,,,,,,,,,,,,,2147031.95,
+[1B1ai] Minas subterráneas,56526.65,2002488.83,,,,,,,,,,,,,,,,,,,,,,,,,,2059015.48,
+[1B1aii] Minas superficie,2827.97,85188.5,,,,,,,,,,,,,,,,,,,,,,,,,,88016.47,
+[1B1b] Combustión espontánea y vertederos para quema de carbón,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[1B2] Petróleo y gas natural,10789767.56,10839515.22,9572.61,,,,,,,,,,,,,,,,,,,,,,,,,21638855.4,1938.41
+[1B2a] Petróleo,9176524.2,8529159.62,9534.9,,,,,,,,,,,,,,,,,,,,,,,,,17715218.72,
+1B2ai Venteo petróleo,6103665.79,5936134.23,,,,,,,,,,,,,,,,,,,,,,,,,,12039800.02,
+1B2aii Quemado petróleo,3030335.28,2534637.65,9534.9,,,,,,,,,,,,,,,,,,,,,,,,,5574507.84,1938.41
+1B2aiii Otras fugitivas petróleo,42523.13,58387.73,,,,,,,,,,,,,,,,,,,,,,,,,,100910.86,
+[1B2b] Gas natural,1613243.37,2310355.6,37.71,,,,,,,,,,,,,,,,,,,,,,,,,3923636.68,
+1B2bi Venteo gas natural,1556186.65,988268.24,,,,,,,,,,,,,,,,,,,,,,,,,,2544454.89,
+1B2bii Quemado gas natural,55181.81,1030.04,37.71,,,,,,,,,,,,,,,,,,,,,,,,,56249.56,
+1B2biii Otras fugitivas gas natural,1874.91,1321057.33,,,,,,,,,,,,,,,,,,,,,,,,,,1322932.24,
+[2] Procesos industriales y uso de productos,30487395.87,277782.7,617144.99,566392.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223834.1,59724.97,0,0,0,0,0,43436.97,32275711.91,
+[2A] Industria de los minerales,14474182.23,,,,,,,,,,,,,,,,,,,,,,,,,,,14474182.23,
+[2A1] Producción de cemento,11424578.16,,,,,,,,,,,,,,,,,,,,,,,,,,,11424578.16,
+[2A2] Producción de cal,2236374.21,,,,,,,,,,,,,,,,,,,,,,,,,,,2236374.21,
+[2A3] Producción de vidrio,400796.47,,,,,,,,,,,,,,,,,,,,,,,,,,,400796.47,
+[2A4] Otros usos de carbonatos,412433.38,,,,,,,,,,,,,,,,,,,,,,,,,,,412433.38,
+[2A5] Otros,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2B] Industria química,5630452.85,277782.7,617144.99,566392.32,,,,,,,,,,,,,,,,,,,,,,,,7091772.85,
+[2B1] Producción de amoniaco,3209466.81,,,,,,,,,,,,,,,,,,,,,,,,,,,3209466.81,
+[2B2] Producción de ácido nítrico,,,435978,,,,,,,,,,,,,,,,,,,,,,,,,435978,
+[2B3] Producción de ácido adípico,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+"[2B4] Producción de caprolactama, glioxil y ácido glioxílico",,,181166.99,,,,,,,,,,,,,,,,,,,,,,,,,181166.99,
+[2B5] Producción de carburo,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2B6] Producción de dióxido de titanio,95946.68,,,,,,,,,,,,,,,,,,,,,,,,,,,95946.68,
+[2B7] Producción de ceniza de sosa,60720,,,,,,,,,,,,,,,,,,,,,,,,,,,60720,
+[2B8] Producción petroquímica y negro de humo,2264319.36,277782.7,,,,,,,,,,,,,,,,,,,,,,,,,,2542102.06,
+[2B9] Producción fluoroquímica,,,,566392.32,,,,,,,,,,,,,,,,,,,,,,,,566392.32,
+[2B10] Otros,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2C] Industria de los metales,10073069.81,0,,,,,,,,,,,,,,,,,,223834.1,59724.97,,,,,,,10356628.88,
+[2C1] Producción de hierro y acero,9651088.74,0,,,,,,,,,,,,,,,,,,,,,,,,,,9651088.74,
+[2C2] Producción de ferroaleaciones,252647.3,,,,,,,,,,,,,,,,,,,,,,,,,,,252647.3,
+[2C3] Producción de aluminio,67521.6,,,,,,,,,,,,,,,,,,,223834.1,59724.97,,,,,,,351080.67,
+[2C4] Producción de magnesio,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2C5] Producción de plomo,101812.17,,,,,,,,,,,,,,,,,,,,,,,,,,,101812.17,
+[2C6] Producción de zinc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2C7] Otros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2D] Uso de productos no energéticos de combustibles y de solvente,309690.98,,,,,,,,,,,,,,,,,,,,,,,,,,,309690.98,
+[2D1] Uso de lubricantes,257678.83,,,,,,,,,,,,,,,,,,,,,,,,,,,257678.83,
+[2D2] Uso de la cera de parafina,52012.16,,,,,,,,,,,,,,,,,,,,,,,,,,,52012.16,
+[2D3] Uso de solventes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2D4] Otros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2E] Industria electrónica,,,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,
+[2E1] Circuitos integrados o semiconductores,,,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,
+[2E2] Pantalla plana tipo TFT,,,0,,,,,,,,,,,,,,,,,0,,,,0,,0,0,0,
+[2E3] Células fotovoltaicas,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,0,
+[2E4] Fluido de transferencia térmica,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2E5] Otros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2F] Uso de productos sustitutos de las sustancias que agotan la capa de ozono,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,0,
+[2F1] Refrigeración y aire acondicionado,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2F2] Agentes espumantes,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2F3] Protección contra incendios,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2F4] Aerosoles,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2F5] Solventes,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2F6] Otras aplicaciones,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2G] Manufactura y utilización de otros productos,,,,,,,,,,,,,,,,,,,,,,,,,,,43436.97,43436.97,
+[2G1] Equipos eléctricos,,,,,,,,,,,,,,,,,,,,,,,,,,,43436.97,43436.97,
+[2G2] SF6 y PFC de otros usos de productos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2G3] N2O de usos de productos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2G4] Otros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2H] Otros,0,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2H1] Industria de la pulpa y el papel,0,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[2H2] Industria de la alimentación y las bebidas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[2H3] Otros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[3] Agricultura,973581.26,86652731.27,21215417.14,,,,,,,,,,,,,,,,,,,,,,,,,108841729.66,2916.61
+[3A] Fermentación entérica,,71653365,0,,,,,,,,,,,,,,,,,,,,,,,,,71653365,
+[3A1] Bovino,,66603198,,,,,,,,,,,,,,,,,,,,,,,,,,66603198,
+[3A2] Ovinos,,1147834,,,,,,,,,,,,,,,,,,,,,,,,,,1147834,
+[3A3] Porcinos,,324358,,,,,,,,,,,,,,,,,,,,,,,,,,324358,
+[3A4a] Búfalos,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[3A4b] Camello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[3A4d] Caprino,,1552133,,,,,,,,,,,,,,,,,,,,,,,,,,1552133,
+[3A4e] Caballos,,1414230,,,,,,,,,,,,,,,,,,,,,,,,,,1414230,
+[3A4f] Mulas y asnos,,611612,,,,,,,,,,,,,,,,,,,,,,,,,,611612,
+[3A4h] Otros  (especificar),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[3B] Gestión del estiércol,,14209523,6652572.73,,,,,,,,,,,,,,,,,,,,,,,,,20862095.73,
+[3B1] Bovino,,8270997,4573046,,,,,,,,,,,,,,,,,,,,,,,,,12844043,
+[3B2] Ovinos,,26433,24858,,,,,,,,,,,,,,,,,,,,,,,,,51291,
+[3B3] Porcinos,,5014863,352942,,,,,,,,,,,,,,,,,,,,,,,,,5367805,
+[3B4a] Búfalos,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[3B4b] Camello,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[3B4d] Caprino,,42542,23181,,,,,,,,,,,,,,,,,,,,,,,,,65723,
+[3B4e] Caballos,,134659,1079055,,,,,,,,,,,,,,,,,,,,,,,,,1213714,
+[3B4f] Mulas y asnos,,58576,431924,,,,,,,,,,,,,,,,,,,,,,,,,490500,
+[3B4g] Aves de corral,,661453,167566.73,,,,,,,,,,,,,,,,,,,,,,,,,829019.73,
+[3B4h] Otros  (especificar),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[3B5] Emisiones indirectas de los N2O de la gestión del estiércol,,,1580391.94,,,,,,,,,,,,,,,,,,,,,,,,,1580391.94,
+[3C] Cultivo del arroz,,264330.9,,,,,,,,,,,,,,,,,,,,,,,,,,264330.9,
+[3D1] Emisiones directas de los N2O de los suelos gestionados,,,8551518.18,,,,,,,,,,,,,,,,,,,,,,,,,8551518.18,
+[3D2] Emisiones indirectas de los N2O de los suelos gestionados,,,4271697.97,,,,,,,,,,,,,,,,,,,,,,,,,4271697.97,
+[3F] Emisiones de quemado de biomasa en tierras de cultivo,,525512.37,159236.31,,,,,,,,,,,,,,,,,,,,,,,,,684748.69,2916.61
+[3G] Encalado,31699.38,,,,,,,,,,,,,,,,,,,,,,,,,,,31699.38,
+[3H] aplicación de urea,941881.88,,,,,,,,,,,,,,,,,,,,,,,,,,,941881.88,
+"[4] Uso de la tierra, cambios de uso de la tierra y silvicultura (UTCUTS)",-198186784.84,103602.86,41958.05,,,,,,,,,,,,,,,,,,,,,,,,,-198041223.94,414.47
+[4A] Tierra forestales,-189599531.25,,,,,,,,,,,,,,,,,,,,,,,,,,,-189599531.25,
+[4A1] Tierras forestales que permanecen como tal,-189377794.76,,,,,,,,,,,,,,,,,,,,,,,,,,,-189377794.76,
+[4A2] Tierras convertidas a tierras forestales,-221736.49,,,,,,,,,,,,,,,,,,,,,,,,,,,-221736.49,
+[4B] Tierra de cultivo,-13971052.26,,,,,,,,,,,,,,,,,,,,,,,,,,,-13971052.26,
+[4B1] Tierras de cultivo que permanecen como tal,-15085255.39,,,,,,,,,,,,,,,,,,,,,,,,,,,-15085255.39,
+[4B2] Tierras convertidas a tierras de cultivo,1114203.13,,,,,,,,,,,,,,,,,,,,,,,,,,,1114203.13,
+[4C] Praderas,5074741.07,,,,,,,,,,,,,,,,,,,,,,,,,,,5074741.07,
+[4C1] Praderas que permanecen como tal,-504294.14,,,,,,,,,,,,,,,,,,,,,,,,,,,-504294.14,
+[4C2] Tierras convertidas en praderas,5579035.2,,,,,,,,,,,,,,,,,,,,,,,,,,,5579035.2,
+[4D] Humedales,0,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[4D1] Humedales que permanecen como tal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[4D2] Tierras convertidas en humedales,0,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[4E] Asentamientos ,68201.22,,,,,,,,,,,,,,,,,,,,,,,,,,,68201.22,
+[4E1] Asentamientos que permanecen como tal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[4E2] Tierras convertidas en asentamientos,68201.22,,,,,,,,,,,,,,,,,,,,,,,,,,,68201.22,
+[4F] Otras tierras ,68201.22,,,,,,,,,,,,,,,,,,,,,,,,,,,68201.22,
+[4F1] Otras tierras que permanecen como tal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[4F1] Tierras convertidas en otras tierras,68201.22,,,,,,,,,,,,,,,,,,,,,,,,,,,68201.22,
+[4(IV)] Emisiones de GEI por quemado de biomasa,,103602.86,41958.05,,,,,,,,,,,,,,,,,,,,,,,,,145560.9,414.47
+[4(IV)A] Emisiones de quemado de biomasa en tierras forestales,,95150.47,34654.08,,,,,,,,,,,,,,,,,,,,,,,,,129804.54,290.93
+[4(IV)C] Emisiones de quemado de biomasa en tierras praderas,,8452.39,7303.97,,,,,,,,,,,,,,,,,,,,,,,,,15756.36,123.54
+[4(IV)H] Emisiones de quemado de biomasa en otras tierras,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[4G] Productos de madera recolectada,172655.16,,,,,,,,,,,,,,,,,,,,,,,,,,,172655.16,
+[4H] Otros (especificar),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[5] Residuos,381926.24,14013819.94,4799365.64,,,,,,,,,,,,,,,,,,,,,,,,,19195111.82,1178.36
+[5A] Eliminación de residuos sólidos,,1782043.86,,,,,,,,,,,,,,,,,,,,,,,,,,1782043.86,
+[5A1] Sitios gestionados de eliminación de residuos (rellenos sanitarios),,920562.65,,,,,,,,,,,,,,,,,,,,,,,,,,920562.65,
+[5A2] Sitios no controlados de eliminación de residuos ,,664509.67,,,,,,,,,,,,,,,,,,,,,,,,,,664509.67,
+[5A3] Tiraderos a cielo abierto para eliminación de residuos,,196971.53,,,,,,,,,,,,,,,,,,,,,,,,,,196971.53,
+[5B] Tratamiento biológico de los residuos sólidos,,94807.01,67296.04,,,,,,,,,,,,,,,,,,,,,,,,,162103.05,
+[5C] Incineración y quema a cielo abierto  de residuos,381926.24,881998.46,192634.28,,,,,,,,,,,,,,,,,,,,,,,,,1456558.98,1178.36
+[5C1] Incineración de residuos peligrosos industriales y biológico infeccioso,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,
+[5C2] Quema a cielo abierto de residuos sólidos,381926.24,881998.46,192634.28,,,,,,,,,,,,,,,,,,,,,,,,,1456558.98,1178.36
+[5D] Tratamiento y eliminación de aguas residuales,,11254970.62,4539435.32,,,,,,,,,,,,,,,,,,,,,,,,,15794405.94,
+[5D1] Tratamiento y eliminación de aguas residuales municipales,,4518925.08,3607401.38,,,,,,,,,,,,,,,,,,,,,,,,,8126326.46,
+[5D2] Tratamiento y eliminación de aguas residuales industriales,,6736045.54,932033.95,,,,,,,,,,,,,,,,,,,,,,,,,7668079.49,
+[5E] Otros,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EMISIONES NETAS (t de CO2e),321632873.85,114759092.71,29671423.65,566392.32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,223834.1,59724.97,0,0,0,0,0,43436.97,466956778.56,80080.09
+Bunkers,2069066,399,15102,,,,,,,,,,,,,,,,,,,,,,,,,2084567,29.31
+Aviación internacional,2069066,399,15102,,,,,,,,,,,,,,,,,,,,,,,,,2084567,29.31
+Marítimo internacional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Emisiones de CO2 por quema de biomasa,37725686,,,,,,,,,,,,,,,,,,,,,,,,,,,37725686,
