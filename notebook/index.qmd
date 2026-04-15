@@ -1,0 +1,141 @@
+--- 
+title: La verdad detras de las emisiones al aire -ODS 13
+author: Mundo Analisis Naturaleza
+format: 
+  dashboard:
+     embeb-resources: true
+logo: img/logo.png
+theme:
+ light: flatly
+ dark: darkly
+--- 
+
+```{python}
+import pandas as pd
+import plotly.express as px
+```
+
+# Emisiones
+## Row {height=40%}
+```{python}
+f = "data/CNI_CNI20260406224057.csv"
+# Load the data, using header=12 as it aligns with the start of numeric data
+wide = pd.read_csv(f, header=12)
+# Rename the columns to the desired descriptive names
+wide = wide.rename(columns={
+    wide.columns[0]: "fecha",
+    wide.columns[2]: "Tonelas CO2 por año"
+})
+wide["fecha"] = pd.to_numeric(wide["fecha"])
+wide["Tonelas CO2 por año"] = pd.to_numeric(wide["Tonelas CO2 por año"])
+fig = px.line(wide, x="fecha", y="Tonelas CO2 por año", title='Emisión de bioxido de carbono por quema de combustibles fósiles')
+fig.show()
+```
+
+## Row {height=60%}
+```{python}
+#| title: Emisiones de gases de efecto invernadero, desglosadas por sector (actividad económica)  en Gigagramos de bióxido de carbono equivalente (Gg CO2e)
+g = "data/sector_sh_es.csv"
+df = pd.read_csv(g)
+
+# Rename the columns to the desired descriptive names
+df = df.rename(columns={
+    df.columns[0]: "Sector",
+    df.columns[1]: "Periodo",
+    df.columns[2]: "Indice de emisión"
+})
+# Convert relevant columns to numeric types for plotting
+df["Periodo"] = pd.to_numeric(df["Periodo"])
+df["Indice de emisión"] = pd.to_numeric(df["Indice de emisión"].astype(str).str.replace(',', ''))
+fig = px.line(df, x="Periodo", y="Indice de emisión", color='Sector')
+fig.show()
+```
+
+```{python}
+e = "data/CNI_CNI20260405134428.csv"
+# Load the data, using header=12 as it aligns with the start of numeric data
+wid = pd.read_csv(e, header=12)
+# Rename the columns to the desired descriptive names
+wid = wid.rename(columns={
+    wid.columns[0]: "Periodo",
+    wid.columns[2]: "% de Hidrocarburos"
+})
+# Convert relevant columns to numeric types for plotting
+wid["Periodo"] = pd.to_numeric(wid["Periodo"])
+wid["% de Hidrocarburos"] = pd.to_numeric(wid["% de Hidrocarburos"])
+
+# Create the line plot with the correct column names
+fig = px.line(wid, x="Periodo", y="% de Hidrocarburos", title='Participacion de los hidrocarburos a nivel nacional')
+fig.show()
+```
+
+
+# Paso 2
+## Row {height=100%}
+```{python}
+import pandas as pd
+import plotly.express as px
+h = "data/SENER_05_PorcentajePoblacionConServicioElectrico.csv"
+wi = pd.read_csv(h, header=12, encoding='latin1')
+# Rename the columns to the desired descriptive names
+wi = wi.rename(columns={
+    wi.columns[0]: "fecha",
+    wi.columns[1]: "porc_energia"
+})
+# Convert relevant columns to numeric types for plotting
+wi["fecha"] = pd.to_numeric(wi["fecha"])
+wi["porc_energia"] = pd.to_numeric(wi["porc_energia"])
+# Create the line plot with the correct column names
+fig = px.line(wi, x="fecha", y="porc_energia", title='Porcentaje de la Poblacion Con Servicio Electrico a nivel nacional')
+fig.show()
+```
+
+
+
+# Leer datos
+```{python}
+
+```
+
+```{python}
+#  Generacion, exportacion y demanda de energia electrica
+## Row {height=25%}
+i = "data/Demanda_real_balance.csv"
+df = pd.read_csv(i)
+
+# Rename the columns to the desired descriptive names
+dfe = dfe.rename(columns={
+    dfe.columns[1]: "Area",
+    dfe.columns[2]: "Hora",
+    dfe.columns[3]: "Generacion (MWh)",
+    dfe.columns[4]: "Importacion Total (MWh)",
+    dfe.columns[5]: "Exportacion Total (MWh)",
+    dfe.columns[7]: "Estimacion de Demanda por Balance (MWh)",
+})
+# Convert relevant columns to numeric types for plotting
+dfe["Hora"] = pd.to_numeric(dfe["Hora"])
+dfe["Generacion (MWh)"] = pd.to_numeric(dfe["Generacion (MWh)"])
+fig = px.line(df, x="Hora", y="Generacion (MWh)", color='Area')
+fig.show()
+
+## Row {height=25%}
+# Convert relevant columns to numeric types for plotting
+dfe["Hora"] = pd.to_numeric(df["Hora"])
+dfe["Importacion Total (MWh)"] = pd.to_numeric(dfe["Importacion Total (MWh)"])
+fig = px.line(dfe, x="Hora", y="Importacion Total (MWh)", color='Area')
+fig.show()
+
+## Row {height=25%}
+# Convert relevant columns to numeric types for plotting
+dfe["Hora"] = pd.to_numeric(dfe["Hora"])
+dfe["Exportacion Total (MWh)"] = pd.to_numeric(dfe["Exportacion Total (MWh)"])
+fig = px.line(dfe, x="Hora", y="Exportacion Total (MWh)", color='Area')
+fig.show()
+
+## Row {height=25%}
+# Convert relevant columns to numeric types for plotting
+dfe["Hora"] = pd.to_numeric(dfe["Hora"])
+dfe["Estimacion de Demanda por Balance (MWh)"] = pd.to_numeric(dfe["Estimacion de Demanda por Balance (MWh)"])
+fig = px.line(df, x="Hora", y="Estimacion de Demanda por Balance (MWh)", color='Area')
+fig.show()
+```
